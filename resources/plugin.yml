@@ -1,0 +1,7 @@
+name: BedWars2023-ShopCommands
+version: ${project.version}
+main: com.tomkeuper.bedwars.addon.ShopCommands
+depend: [ BedWars2023 ]
+authors: [ MrCeasar ]
+api-version: 1.13
+description: ShopCommands Addon for BedWars2023.
